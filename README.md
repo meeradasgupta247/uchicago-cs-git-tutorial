@@ -1,1 +1,0 @@
-# uchicago-cs-git-tutorial
